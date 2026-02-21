@@ -1,5 +1,4 @@
-# CHIP-8 EMULATOR 💾 
-🇧🇷
+# CHIP-8 EMULATOR 💾👾
 
 # O que é o CHIP-8? 🇧🇷
 
