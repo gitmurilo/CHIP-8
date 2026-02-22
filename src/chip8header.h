@@ -29,7 +29,7 @@ author: github.com/gitmurilo
 
 void chip8_initialize(); 
 void chip8_loadgame(char *game); //open file and load a game archives in ram
-void chip8_emulatecycle(); //operator of emulation
+void chip8_emulatecycle(); //operator of emulation (take, read, execute).
 void chip8_setkeys(); //set a keyboard
 void chip8_timer(); //set a timer 
 
